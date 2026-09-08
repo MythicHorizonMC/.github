@@ -1,5 +1,3 @@
-<img width="372" height="129" alt="image" src="https://github.com/user-attachments/assets/0b2fe23b-bd5d-44aa-82ac-148f6b615456" /><div align="center">
-
 # 🌌 MythicHorizon
 
 Building the next generation of software and gaming experiences.
