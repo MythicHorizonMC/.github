@@ -1,4 +1,4 @@
-<div align="center">
+<img width="372" height="129" alt="image" src="https://github.com/user-attachments/assets/0b2fe23b-bd5d-44aa-82ac-148f6b615456" /><div align="center">
 
 # 🌌 MythicHorizon
 
@@ -7,6 +7,6 @@ Building the next generation of software and gaming experiences.
 [![Website](https://img.shields.io/badge/Website-MythicHorizon.net-000?style=for-the-badge)](https://eonhorizon.net)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.gg/yourinvite](https://discord.gg/k74qywfNr9))
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MythicHorizon)
-[![VK](https://img.shields.io/badge/VKontakte-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/eonhorizon)
+[![VK](https://img.shields.io/badge/VKontakte-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/MythicHorizon)
 
 </div>
